@@ -93,7 +93,7 @@ h4 {
   box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.2);
   position: fixed;
   width: 100%;
-  background: #2e2e2e;
+  background: black;
   color: #fff;
   opacity: 0.85;
   height: 50px;
@@ -110,6 +110,7 @@ h4 {
 .menu-items {
   order: 2;
   display: flex;
+  color: #fff;
 }
 
 .menu-items li {
